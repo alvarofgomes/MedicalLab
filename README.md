@@ -42,7 +42,7 @@ npx expo start
 
 - Italo Guilherme - 01678558
 
-- Julia Greicy - 01699617
+- Julia Greicy -  01699517
 
 - Kauan Santana - 01710611
 
